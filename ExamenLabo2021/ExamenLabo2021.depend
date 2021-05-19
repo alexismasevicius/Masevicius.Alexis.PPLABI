@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1621430872 source:c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\esqueletovacioprimerexamen\examenlabo2021\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+
+1621427848 c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\esqueletovacioprimerexamen\examenlabo2021\menu.h
+
+1621431540 source:c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\esqueletovacioprimerexamen\examenlabo2021\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicio.h"
+
+1621429122 source:c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\esqueletovacioprimerexamen\examenlabo2021\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+
+1621429122 c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\esqueletovacioprimerexamen\examenlabo2021\color.h
+
+1621433842 source:c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\esqueletovacioprimerexamen\examenlabo2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"menu.h"
+	"mascotas.h"
+	"trabajos.h"
+	"tipos.h"
+	"color.h"
+	"servicios.h"
+
+1621423348 c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\esqueletovacioprimerexamen\examenlabo2021\utn.h
+
+1621434673 c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\esqueletovacioprimerexamen\examenlabo2021\mascotas.h
+	"tipos.h"
+	"color.h"
+
+1621433506 c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\esqueletovacioprimerexamen\examenlabo2021\trabajos.h
+	"tipos.h"
+	"color.h"
+	"mascotas.h"
+	"servicios.h"
+
+1621429122 c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\esqueletovacioprimerexamen\examenlabo2021\tipos.h
+
+1621431540 c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\esqueletovacioprimerexamen\examenlabo2021\servicio.h
+
+1621429122 source:c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\esqueletovacioprimerexamen\examenlabo2021\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tipos.h"
+
+1621434357 source:c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\esqueletovacioprimerexamen\examenlabo2021\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajos.h"
+	"mascotas.h"
+	"tipos.h"
+	"color.h"
+	"utn.h"
+
+1621423388 source:c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\esqueletovacioprimerexamen\examenlabo2021\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1621434867 source:c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\esqueletovacioprimerexamen\examenlabo2021\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"mascotas.h"
+	"tipos.h"
+	"color.h"
+	"utn.h"
+
+1621431673 c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\esqueletovacioprimerexamen\examenlabo2021\servicios.h
+
+1621431673 source:c:\users\alex\desktop\laboratorio 2021\esqueletoprimerexamen2021\esqueletovacioprimerexamen\examenlabo2021\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicios.h"
+
